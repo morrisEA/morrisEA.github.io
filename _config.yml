@@ -58,14 +58,15 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Evan Morris"
-  avatar : "/assets/images/bio-photo.png"
-  bio    : "Graduate Student of Computer Science"
+  name     : "Evan Morris"
+  avatar   : "/assets/images/bio-photo.png"
+  bio      : "Graduate Student of Computer Science"
+  location : "Norfolk, VA"
+  email    : "emorr018 at odu dot edu"
   links:
     - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/morrisEA"
-      email: "emorr018 at odu dot edu"
+      icon : "fab fa-fw fa-github"
+      url  : "https://github.com/morrisEA"
 
 footer:
   links:
