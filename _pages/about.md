@@ -15,7 +15,11 @@ I served in the United State Navy as a Fire Controlman, specializing the in oper
 **Research Interests:** machine learning, data analytics, data visualization, web science.
 
 ### Resume
-[Download](/assets/pdfs/Resume-MORRIS,EVAN-github.pdf){: .fa .fa-download }
+<div style="text-align: center; margin: 20px 0;">
+  <a href="/assets/pdfs/Resume-MORRIS,EVAN-github.pdf" class="btn btn--primary" download>
+    <i class="fas fa-download"></i> Download Resume
+  </a>
+</div>
 <div style="width:100%; height:50vh;">
   <iframe src="/assets/pdfs/Resume-MORRIS,EVAN-github.pdf#navpanes=0&zoom=75" 
           style="width:100%; height:100%; border:none;">
