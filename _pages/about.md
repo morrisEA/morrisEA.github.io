@@ -15,4 +15,4 @@ I served in the United State Navy as a Fire Controlman, specializing the in oper
 **Research Interests:** machine learning, data analytics, data visualization, web science.
 
 ### Resume 
-<embed src="/assets/docs/Resume-MORRIS,EVAN-github.pdf" type="application/pdf" width="100%" height="600px" />
+<embed src="/assets/docs/Resume-MORRIS,EVAN-github.pdf" type="application/pdf" width="100%" height="600px" navpanes=0 zoom=75 />
